@@ -1,4 +1,4 @@
-# Review-and-Application-of-Machine-Learning-Techniques-to-Detect-Fraud-in-Credit-Card-Transactions
+# Review and Application of Machine Learning Techniques to Detect Fraud in Credit Card Transactions in E-commerce.
 
 (ENG)
 
